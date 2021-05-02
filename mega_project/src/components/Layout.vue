@@ -1,7 +1,9 @@
 <template>
   <div class="layout">
     <header class="header">
-      <h1 class="header__title">Mega project</h1>
+      <h1 class="header__title">
+        Mega project Grunicheva Tanya BPZ1801 (eiforiaa)
+      </h1>
     </header>
     <div class="container">
       <div class="left">

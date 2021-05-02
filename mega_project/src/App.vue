@@ -59,7 +59,7 @@ body {
   min-height: 100%;
   display: flex;
   flex-direction: column;
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Original Surfer", cursivel;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #c5c6c7;
